@@ -2,8 +2,8 @@
 /**
 * Plugin Name: Lsky Pro Wordpress
 * Plugin URI: https://www.allenyou.wang/
-* Description: The first plugin I have created.
+* Description: 一个允许用户将图片上传到Lsky Pro图床的Wordpress插件
 * Version: 1.0
-* Author: Your Name
+* Author: Allenyou
 * Author URI: https://www.allenyou.wang/
 **/
